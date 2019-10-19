@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class First {
 
 	public static void main(String[] args) {
-				String g="AAAAAAA";
+				String g="AAAAAAAB";
 		
 				String r="";
 				int c=0;
