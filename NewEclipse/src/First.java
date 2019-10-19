@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class First {
 
 	public static void main(String[] args) {
-				//Removed and Trial Fetech
+		
 				String r="";
 				int c=0;
 				String st="tamil nadu is beautiful city";
